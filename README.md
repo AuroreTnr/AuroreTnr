@@ -12,6 +12,10 @@
 </p>
 -->
 
+<!-- my-header -->
+
+<img src="">
+
 <!--   my-typing -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&pause=100&color=FDF8C0&vCenter=true&repeat=false&width=435&lines=Hi%2C+I+am+Aurore+;Nice+to+meet+you++%F0%9F%91%8B;I'm+very+passionate+about+web+development;I+want+to+make+it+my+new+job;Good+visit+😊)](https://git.io/typing-svg)
 
