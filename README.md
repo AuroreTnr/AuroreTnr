@@ -24,9 +24,9 @@ I' m currently learning
 > * HTML5,
 > * CSS3,
 > * JavaScript,
-> * React,
 > * PHP,
-> * SQL.
+> * SQL,
+> * Symfony.
 
 
 Here is **[my website][1]** , it's my very first project, you can see all my work there
