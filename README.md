@@ -33,6 +33,7 @@ Here is **[my website][1]** , it's my very first project, you can see all my wor
  
 [1]: https://auroretnr.github.io/FromAuroreTnr.github.io/        "my website"
 
+ <a href="/cv-stage.pdf" target="_blank">My Curriculum Vitae</a>
 
 <!---
 AuroreTnr/AuroreTnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
