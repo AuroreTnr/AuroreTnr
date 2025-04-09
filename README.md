@@ -23,17 +23,20 @@ I' m currently learning
 
 > * HTML5,
 > * CSS3,
+> * Bootstrap
 > * JavaScript,
 > * PHP,
 > * SQL,
 > * Symfony.
+> * API React
+> * Merise
 
 
-Here is **[my website][1]** , it's my very first project, you can see all my work there
+This is **[my website][1]** , it's my very first project! You can explore some of my work there.
  
 [1]: https://auroretnr.github.io/FromAuroreTnr.github.io/        "my website"
 
-Here my <a href="/cv-stage.pdf" target="_blank">Curriculum Vitae</a>
+Here’s a link to my <a href="/cv-stage.pdf" target="_blank">Curriculum Vitae</a>
 
 <!---
 AuroreTnr/AuroreTnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
