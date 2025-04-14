@@ -1,14 +1,13 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="/banner.png" alt="Bienvenue sur le profil de Aurore" />
 </p>
-
+--!>
 
 <!-- my-header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&pause=700&color=004080&center=true&vCenter=true&width=700&lines=Bonjour%2C+je+m'appelle+Aurore+!;Hello%2C+my+name+is+Aurore!;Passionnée+par+le+code+et+le+web;Passionate+about+code+and+web+development;En+formation+Conceptrice+Développeuse+d'application;Training+as+a+Software+Developer;Bienvenue+sur+mon+GitHub+!;Welcome+to+my+GitHub+!+😊" alt="Typing animation">
 </p>
-
 
 
 
