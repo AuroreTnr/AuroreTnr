@@ -41,6 +41,12 @@
 ✨ Mon tout premier projet web, conçu en HTML, CSS et JavaScript.  
 > This is my first website, where I explored the basics of front-end development.
 
+
+## ✨ À découvrir aussi
+
+🔗 [Mon projet Symfony — TheDistrictV2](https://github.com/AuroreTnr/TheDistrictV2)  
+Un site de restauration complet avec microservices (Mailjet, Stripe), gestion des commandes et factures PDF.
+
 ---
 
 ## 🚀 Compétences & Technologies | Skills & Tech
@@ -59,6 +65,7 @@
 ![DomPDF](https://img.shields.io/badge/DomPDF-lightgrey?style=flat)
 
 ---
+
 
 ## 📚 En cours d'apprentissage | Currently Learning
 
@@ -83,6 +90,10 @@
 💪 Je m’implique à fond dans mes projets, que vous pouvez découvrir ici sur mon GitHub !
 
 ---
+
+![Autodidacte](https://img.shields.io/badge/Autodidacte-Oui-success?style=for-the-badge&logo=readme)
+![Formation en cours](https://img.shields.io/badge/Formation-En%20cours-blueviolet?style=for-the-badge&logo=academia)
+![Passionnée](https://img.shields.io/badge/Code-Passion-orange?style=for-the-badge&logo=javascript)
 
 <!---
 AuroreTnr/AuroreTnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
