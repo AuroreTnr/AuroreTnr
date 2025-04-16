@@ -80,7 +80,7 @@ Un site de restauration complet avec microservices (Mailjet, Stripe), gestion de
 
 ## 💼 Mon CV | My Resume
 
-📄 [Voir mon CV en PDF](https://auroretnr.github.io/FromAuroreTnr.github.io/cv-stage.pdf)
+📄 [Voir mon CV en PDF](https://auroretnr.github.io/FromAuroreTnr.github.io/concepteur-developpeur-d-application-github.pdf)
 
 ---
 
