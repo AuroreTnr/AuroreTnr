@@ -71,6 +71,16 @@ Cette démo permet de **visualiser toutes les fonctionnalités principales** du 
 
 ## 🚀 Compétences & Technologies | Skills & Tech
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) ![Twig](https://img.shields.io/badge/Twig-74B816?style=flat) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) ![Mailjet](https://img.shields.io/badge/Mailjet-F4B400?style=flat&logoColor=white) ![DomPDF](https://img.shields.io/badge/DomPDF-lightgrey?style=flat) --- ## 💼 Mon CV | My Resume 📄 [Voir mon CV en PDF](https://auroretnr.github.io/FromAuroreTnr.github.io/concepteur-developpeur-d-application-github.pdf) --- ![Autodidacte](https://img.shields.io/badge/Autodidacte-Oui-success?style=for-the-badge&logo=readme) ![Diplômée](https://img.shields.io/badge/Diplômée-Conceptrice%20Développeuse%20d'Applications-blueviolet?style=for-the-badge&logo=academia) ![Passionnée](https://img.shields.io/badge/Code-Passion-orange?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) ![Twig](https://img.shields.io/badge/Twig-74B816?style=flat) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) ![Mailjet](https://img.shields.io/badge/Mailjet-F4B400?style=flat&logoColor=white) ![DomPDF](https://img.shields.io/badge/DomPDF-lightgrey?style=flat)
+
+--- 
+
+## 💼 Mon CV | My Resume 📄
+
+[Voir mon CV en PDF](https://auroretnr.github.io/FromAuroreTnr.github.io/concepteur-developpeur-d-application-github.pdf) 
+
+---
+
+![Autodidacte](https://img.shields.io/badge/Autodidacte-Oui-success?style=for-the-badge&logo=readme) ![Diplômée](https://img.shields.io/badge/Diplômée-Conceptrice%20Développeuse%20d'Applications-blueviolet?style=for-the-badge&logo=academia) ![Passionnée](https://img.shields.io/badge/Code-Passion-orange?style=for-the-badge&logo=javascript)
 
 <!--- AuroreTnr/AuroreTnr is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. --->
