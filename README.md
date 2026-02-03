@@ -23,10 +23,11 @@
 
 ---
 
-## 🌐 Mon site web | My Website 🔗 [**FromAuroreTnr.github.io**](https://auroretnr.github.io/FromAuroreTnr.github.io/) 
+## 🌐 Mon site web | My Website 
+
+🔗 [**FromAuroreTnr.github.io**](https://auroretnr.github.io/FromAuroreTnr.github.io/) 
 
 Mon tout premier projet web, conçu en HTML, CSS et JavaScript. 
-
 > This is my first website, where I explored the basics of front-end development.
 
  ---
@@ -34,6 +35,7 @@ Mon tout premier projet web, conçu en HTML, CSS et JavaScript.
  ## ✨ À découvrir aussi | Projects to Explore 
  
  🔗 [Mon projet Symfony — TheDistrictV2](https://github.com/AuroreTnr/TheDistrictV2) 
+ 
  Un site de restauration complet avec microservices (Mailjet, Stripe), gestion des commandes et factures PDF. 
  > A complete restaurant website with microservices (Mailjet, Stripe), order management, and PDF invoices. 
  
