@@ -83,4 +83,6 @@ Cette démo permet de **visualiser toutes les fonctionnalités principales** du 
 
 ![Autodidacte](https://img.shields.io/badge/Autodidacte-Oui-success?style=for-the-badge&logo=readme) ![Diplômée](https://img.shields.io/badge/Diplômée-Conceptrice%20Développeuse%20d'Applications-blueviolet?style=for-the-badge&logo=academia) ![Passionnée](https://img.shields.io/badge/Code-Passion-orange?style=for-the-badge&logo=javascript)
 
+
+---
 <!--- AuroreTnr/AuroreTnr is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. --->
