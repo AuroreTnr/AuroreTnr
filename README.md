@@ -33,11 +33,7 @@ Mon tout premier projet web, conçu en HTML, CSS et JavaScript.
  ---
  
  ## ✨ À découvrir aussi | Projects to Explore 
- 
- 🔗 [Mon projet Symfony — TheDistrictV2](https://github.com/AuroreTnr/TheDistrictV2) 
- 
- Un site de restauration complet avec microservices (Mailjet, Stripe), gestion des commandes et factures PDF. 
- > A complete restaurant website with microservices (Mailjet, Stripe), order management, and PDF invoices. 
+
  
  🔗 [Projet de fin d’études — Green Village](https://aurorenesthub.com/) 
  
